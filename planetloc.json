@@ -1,15 +1,15 @@
 [
   {
-    "key" : "SE",
-    "name" : "Sergipe",
-    "latitude" : -10.9091,
-    "longitude" : -37.0677
+    "key" : "POPCENTER",
+    "name" : "POP CENTRAL",
+    "latitude" : -3.85299,
+    "longitude" : -38.51892
   },
   {
-    "key" : "PA",
-    "name" : "Pará",
-    "latitude" : -1.4554,
-    "longitude" : -48.4898
+    "key" : "POPMSJ",
+    "name" : "POP MESSEJANA",
+    "latitude" : -3.85330,
+    "longitude" : -38.51630
   },
   {
     "key" : "MG",
