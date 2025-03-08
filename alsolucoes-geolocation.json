@@ -18,34 +18,34 @@
     "longitude" : -46.73124
   },
   {
-    "key" : "RR",
-    "name" : "Roraima",
-    "latitude" : 2.82384,
-    "longitude" : -60.6753
+    "key" : "VP TELECOM-CORE",
+    "name" : "VP TELECOM",
+    "latitude" : -23.66174,
+    "longitude" : -46.78248
   },
   {
-    "key" : "DF",
-    "name" : "Distrito Federal",
-    "latitude" : -15.7795,
-    "longitude" : -47.9297
+    "key" : "VIVEZA TELECOM",
+    "name" : "VIVEZA TELECOM",
+    "latitude" : -3.7359,
+    "longitude" : -38.4873
   },
   {
-    "key" : "MS",
-    "name" : "Mato Grosso do Sul",
-    "latitude" : -20.4486,
-    "longitude" : -54.6295
+    "key" : "VIAFIOS TELECOM - OROS",
+    "name" : "VIAFIOS TELECOM",
+    "latitude" : -6.4083,
+    "longitude" : -38.859
   },
   {
-    "key" : "MT",
-    "name" : "Mato Grosso",
-    "latitude" : -15.601,
-    "longitude" : -56.0974
+    "key" : "TURBONET",
+    "name" : "TURBONET",
+    "latitude" : -3.8567,
+    "longitude" : -38.6434
   },
   {
-    "key" : "PR",
-    "name" : "Paraná",
-    "latitude" : -25.4195,
-    "longitude" : -49.2646
+    "key" : "TERATELECOM CUMBUCO",
+    "name" : "TERATELECOM",
+    "latitude" : -3.64251,
+    "longitude" : -38.7084
   },
   {
     "key" : "SC",
