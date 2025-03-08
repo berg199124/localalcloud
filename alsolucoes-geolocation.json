@@ -48,34 +48,34 @@
     "longitude" : -38.7084
   },
   {
-    "key" : "SC",
-    "name" : "Santa Catarina",
-    "latitude" : -27.5945,
-    "longitude" : -48.5477
+    "key" : "SRD TELECOM-CORE",
+    "name" : "SRD TELECOM",
+    "latitude" : -3.8549,
+    "longitude" : -38.50620
   },
   {
-    "key" : "CE",
-    "name" : "Ceará",
-    "latitude" : -3.71664,
-    "longitude" : -38.5423
+    "key" : "SPEEDTRACK TELECOM-CORE",
+    "name" : "SPEEDTRACK TELECOM",
+    "latitude" : -3.79149,
+    "longitude" : -38.63071
   },
   {
-    "key" : "GO",
-    "name" : "Goiás",
-    "latitude" : -16.6864,
-    "longitude" : -49.2643
+    "key" : "	SPEEDNET VALPARAISO",
+    "name" : "SPEEDNET VALPARAISO",
+    "latitude" : -3.84516,
+    "longitude" : -38.52904
   },
   {
-    "key" : "PB",
-    "name" : "Paraíba",
-    "latitude" : -7.11509,
-    "longitude" : -34.8641
+    "key" : "SPEEDNET CAUCAIA TELECOM",
+    "name" : "SPEEDNET CAUCAIA TELECOM",
+    "latitude" : -3.7342,
+    "longitude" : -38.5003
   },
   {
-    "key" : "AP",
-    "name" : "Amapá",
-    "latitude" : 0.034934,
-    "longitude" : -51.0694
+    "key" : "SERVINET TELECOM",
+    "name" : "SERVINET TELECOM",
+    "latitude" : -3.7152,
+    "longitude" : -38.47058
   },
   {
     "key" : "AL",
