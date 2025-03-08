@@ -1,20 +1,224 @@
 [
   {
-    "key" : "SSTELECOM",
-    "name" : "SS TELECOM",
-    "latitude" : -1.4397,
-    "longitude" : -48.51177
+    "key": "WIASUL-VIAMAO",
+    "name": "WIANETSUL TELECOM LTDA",
+    "latitude": -29.9279,
+    "longitude": -51.1825
   },
   {
-    "key" : "TRUTELECOM",
-    "name" : "TRU TELECOM",
-    "latitude" : -4.8534,
-    "longitude" : -39.57813
+    "key": "VP TELECOM-CORE",
+    "name": "VP TELECOMUNICACOES",
+    "latitude": -23.6821,
+    "longitude": -46.7696
   },
   {
-    "key" : "ERICK TELECOM",
-    "name" : "ERICK TELECOM",
-    "latitude" : -23.6588,
-    "longitude" : -46.73124
+    "key": "VIAFIOS TELECOM-OROS",
+    "name": "VIA FIBRA OTICA SERVICOS E PARTICIPACOES LTDA",
+    "latitude": -6.2518,
+    "longitude": -39.2153
+  },
+  {
+    "key": "TRUTELECOM",
+    "name": "TRU TELECOM LTDA",
+    "latitude": -3.7275,
+    "longitude": -38.5109
+  },
+  {
+    "key": "NTISP - DC-ANGLONAP",
+    "name": "T C H Costa LTD",
+    "latitude": -3.7335,
+    "longitude": -38.4895
+  },
+  {
+    "key": "SRD TELECOM-CORE",
+    "name": "SRD TELECOM EIRELI ME",
+    "latitude": -3.8145,
+    "longitude": -38.5092
+  },
+  {
+    "key": "SPEEDNET CAUCAIA TELEC",
+    "name": "SPN INVESTIMENTOS",
+    "latitude": -3.7335,
+    "longitude": -38.4895
+  },
+  {
+    "key": "TERRAZOSHOPPING - ADM",
+    "name": "ASSOCIACAO TERRAZO SHOPPING",
+    "latitude": -2.9056,
+    "longitude": -38.6221
+  },
+  {
+    "key": "GRANDSHOPPING - ADM",
+    "name": "CONDOMINIO DO EDIFICIO GRANDSHOPPING",
+    "latitude": -3.7763,
+    "longitude": -38.4881
+  },
+  {
+    "key": "CORELINKTELECOM-SJC-SI",
+    "name": "Corelink - Conectividade Segura e Transporte de dados",
+    "latitude": -3.7335,
+    "longitude": -38.4895
+  },
+  {
+    "key": "ENERGY TELECOM",
+    "name": "ENERGY TELECOM COMERCIO E SERVICOS LTDA",
+    "latitude": -3.7335,
+    "longitude": -38.4895
+  },
+  {
+    "key": "TURBONET",
+    "name": "TURBONET",
+    "latitude": -3.9131,
+    "longitude": -38.6183
+  },
+  {
+    "key": "B4TELECOM",
+    "name": "B4 TELECOM SERVICOS DE COMUNICACAO E TECNOLOGIA LTDA",
+    "latitude": -3.9013,
+    "longitude": -38.6246
+  },
+  {
+    "key": "CHOCONETTELECOM",
+    "name": "CHOCONET TELECOM",
+    "latitude": -23.4686,
+    "longitude": -46.6656
+  },
+  {
+    "key": "CIDADENETTELECOM",
+    "name": "CIDADENET TELECOM",
+    "latitude": -3.7359,
+    "longitude": -38.4916
+  },
+  {
+    "key": "TERATELECOM CUMBUCO",
+    "name": "D & C serviços técnicos em sistemas digitais Ltda",
+    "latitude": -3.7144,
+    "longitude": -38.6577
+  },
+  {
+    "key": "DESING TELECOM-CORE",
+    "name": "DesignerNet - Denys Vasconcelos de Araújo",
+    "latitude": -3.7283,
+    "longitude": -38.5746
+  },
+  {
+    "key": "ERICK TELECOM",
+    "name": "ERICK TELECOMUNICACOES LTDA",
+    "latitude": -23.6791,
+    "longitude": -46.7649
+  },
+  {
+    "key": "EURONET TELECOM",
+    "name": "EURO NET Arthur Santos de Sousa",
+    "latitude": -3.8145,
+    "longitude": -38.5091
+  },
+  {
+    "key": "FB TELECOM",
+    "name": "FB Telecom",
+    "latitude": -3.7283,
+    "longitude": -38.5746
+  },
+  {
+    "key": "GR NET TELECOM",
+    "name": "GR NET TELECOM",
+    "latitude": -4.0099,
+    "longitude": -38.6243
+  },
+  {
+    "key": "GRB TELECOM",
+    "name": "GRB TELECOMUNICACOES E SERVICOS LTDA",
+    "latitude": -3.7457,
+    "longitude": -38.5372
+  },
+  {
+    "key": "HDS TELECOM",
+    "name": "HDS SOLUCOES",
+    "latitude": -3.7908,
+    "longitude": -38.5581
+  },
+  {
+    "key": "NETRAPIDA TELECOM",
+    "name": "INFORTEC - INFORMATICA & TECNOLOGIA LTDA",
+    "latitude": -3.8121,
+    "longitude": -38.5205
+  },
+  {
+    "key": "IS TELECOM",
+    "name": "J S DE FARIAS TELECOMUNICACOES E COMERCIO LTDA",
+    "latitude": -4.2856,
+    "longitude": -40.7036
+  },
+  {
+    "key": "LS BANDA LARGA CORE",
+    "name": "LS Banda Larga",
+    "latitude": -3.7893,
+    "longitude": -38.5149
+  },
+  {
+    "key": "MM TELECOM-CORE",
+    "name": "MM BRITO DA SILVA MULTIMIDIA",
+    "latitude": -3.7283,
+    "longitude": -38.5746
+  },
+  {
+    "key": "GPX TELECOM",
+    "name": "MARANATA COM E SERV. EM COMPUT. E TELECOM",
+    "latitude": -3.7457,
+    "longitude": -38.5372
+  },
+  {
+    "key": "MIXNET",
+    "name": "Mix net",
+    "latitude": -4.0099,
+    "longitude": -38.6243
+  },
+  {
+    "key": "MS-TELECOM",
+    "name": "MS NET TELECOM",
+    "latitude": -3.7283,
+    "longitude": -38.5746
+  },
+  {
+    "key": "MUCURIPE TELECOM",
+    "name": "MUCURIPE TELECOM",
+    "latitude": -3.7366,
+    "longitude": -38.4756
+  },
+  {
+    "key": "NOSSANET",
+    "name": "NOSS@NET FORTALEZA",
+    "latitude": -3.7457,
+    "longitude": -38.5372
+  },
+  {
+    "key": "SSTELECOM",
+    "name": "SAMUEL BARROS COMUNICACAO MULTIMIDIA SCM",
+    "latitude": -6.0892,
+    "longitude": -49.3599
+  },
+  {
+    "key": "SERVINET TELECOM",
+    "name": "Manoel Epaminondas de Alencar",
+    "latitude": -3.7359,
+    "longitude": -38.4916
+  },
+  {
+    "key": "SPEEDNET VALPARAISO",
+    "name": "SPEED NET TELECOM",
+    "latitude": -3.845,
+    "longitude": -38.5091
+  },
+  {
+    "key": "SPEEDTRACK TELECOM-CQ",
+    "name": "SPEEDTRACK TELECOM",
+    "latitude": -3.7184,
+    "longitude": -38.6577
+  },
+  {
+    "key": "FLASHNET",
+    "name": "Daiane Marinho de Oliveira",
+    "latitude": -4.7303,
+    "longitude": -39.2396
   }
 ]
