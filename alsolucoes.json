@@ -1,12 +1,12 @@
 [
   {
-    "key" : "SSTELECOM",
+    "key" : "SSTELECOM:SSTELECOM",
     "name" : "SS TELECOM",
     "latitude" : -1.43970,
     "longitude" : -48.51177
   },
   {
-    "key" : "TRUTELECOM",
+    "key" : "TRUTELECOM:TRUTELECOM",
     "name" : "TRU TELECOM",
     "latitude" : -4.85346,
     "longitude" : -39.57813
